@@ -1,0 +1,89 @@
+---
+title: "Lecture - Fundamentals of Android Development"
+collection: talks
+type: "Lecture"
+permalink: /talks/2019-03-01-talk-2
+venue: "AUT"
+date: 2019-03-01
+location: "Tehran, Iran"
+---
+
+
+
+This workshop (30 hrs) was held in Amirkabir University of Tech. for beginners to familiar with java programming and fundamentals fo Android.
+
+
+* Section1 : Java Syntax
+    * What is Java?
+    * Installing JDK and SDK
+    * Hello World
+    * Java Main Method
+    * Java Syntax
+    * Java Variables
+    * Java Data Types
+    * Java Operations
+    * Java Classes
+    * Java Fields, Method
+    * Java Access Modifiers
+
+* Section2 : Object Oriented in Java
+    * What is OOP?
+    * Java Inheritance
+    * Java Abstract Class
+    * Java Polymorphism
+    * Java Enums
+    * Project1
+
+* Section 3
+    * AndroidStudio Enviornment
+    * Introduction to XML
+    * Layout : LinearLayout
+    * Basic UI Elements : Button, TextView, EditText, ImageView
+    * Resources : Drawable, layout, values
+    * Toast
+    * AndroidManifest
+    * Gradle
+
+* Section 4
+     * Listeners & event handling
+     * Navigation between activity
+     * Bundle
+     * Layout : Relative Layout
+     * DP, SP, PX
+     * Clean Code
+
+* Section 5
+     * AppBarLayout
+     * Toolbar
+     * Generics
+     * RecyclerVeiw
+     * Menu
+     * Glide
+     
+* Section 6
+     * Layout Managers
+     * Shared Preferences
+     * ItemTouchHelper
+     * Project
+     
+* Section 7
+	* Intent
+	* Dialog
+	* Basic Fragment
+
+* Section 8
+	* DrawerLayout
+	* CoordinatorLayout
+	* Permission
+	* SQlite
+
+* Section 9
+	* Sugar ORM
+	* ViewPager
+	* GSON
+	* Retrofit
+
+* Section 10
+	* Animations
+	* CustomView
+	* ObjectBox ORM
