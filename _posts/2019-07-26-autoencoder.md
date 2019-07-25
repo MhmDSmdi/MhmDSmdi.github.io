@@ -1,7 +1,7 @@
 ---
 title: 'Why Autoencoder?'
 date: 2019-07-26
-permalink: /posts/2019/07/post_1/
+permalink: /posts/2019/07/autoencoder/
 tags:
   - Autoencoder
   - DeepLearning
