@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I'm a third-year bachelor student of Computer Engineering (CE) at Amirkabir University of Technology (AUT), interested in anomaly detection, natural language processing (NLP), deep learning and machine learning. I did some projects in these fields (you can see them [here](github.com/mhmdsmdi)).
+I'm a third-year bachelor student of Computer Engineering (CE) at Amirkabir University of Technology (AUT), interested in anomaly detection, natural language processing (NLP), deep learning and machine learning. I did some projects in these fields (you can see them [here](https://github.com/mhmdsmdi)).
 Now I'm doing research on anomaly detection using variational autoencoder.
 
 In addition, I'm an Android developer in SOP Company since June 2017 and responsible for defining software requirements and preparing documentation.
