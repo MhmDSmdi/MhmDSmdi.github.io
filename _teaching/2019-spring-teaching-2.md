@@ -2,7 +2,7 @@
 title: "Teaching Assistant - Operating System"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2019-spring-teaching-1.md
+permalink: /teaching/2019-spring-teaching-2.md
 venue: "Amirkabir University, Computer Eng. and IT Dept."
 date: 2019-01-01
 location: "Tehran, Iran"
