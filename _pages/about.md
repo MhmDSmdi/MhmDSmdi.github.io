@@ -14,4 +14,4 @@ I'm a third-year bachelor student of Computer Engineering (CE) at Amirkabir Univ
 Now I'm doing research on anomaly detection using variational autoencoder.
 
 In addition, I'm an Android developer in SOP Company since June 2017 and responsible for defining software requirements and preparing documentation.
-To view or download the latest short version of my CV, [click here](). Also, you can check my [technical resume]() which contains more details on my technical skills.
+To view or download the latest short version of my CV, [click here](https://www.dropbox.com/s/vcgo52kmfzsmb9j/Mohammadreza-Samadi_CV.pdf?dl=0&m=). Also, you can check my [technical resume]() which contains more details on my technical skills.
