@@ -9,32 +9,61 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interests
+======
+* Anomaly Detection
+* Natural Language Processing
+* Deep Learning
+* Machine Learning
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Amirkabir University of Technology** (Tehran Polytechnic), Tehran, Iran
+  * B.Sc, Computer Engineering, 2016 - 2020 (expected)
+  * Advisor: Prof. Saeedeh Momtazi
+  * GPA: **17.82** / 20
   
-Skills
+* **Mofid High School**, Tehran, Iran
+  * B.Sc, Computer Engineering, 2016 - 2020 (expected)
+  * High School Diploma in Mathematics and Physics, 2012 - 2016
+  * GPA: **19.67** / 20
+
+
+Research and Work Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Anomaly Detection via VAE (September 2018 - present)
+  * Research on anomaly detection using variational autoencoders
+  * Under supervision of Prof. AmirHaeri
+  
+* SOP Company, as Mobile Developer (October 2018 - present)
+  * Responsible for designing and developing a mHealth (mobile health) application
+  
+* Papillon Company, as Android Developer Intern (June 2017 - August 2017)
+  
+Technical Skills
+======
+* Programming Scripting Language
+  * Java
+  * Python
+  * C
+  * Shell Scripting
+* Machine Learning Tools
+  * TensorFlow
+  * Keras
+  * GNU Octave
+  * scikit-learn
+* Web Development
+  * HTML
+  * CSS
+  * JavaScript
+  * Node.js
+  * XML
+* Database Systems
+  * MySQL
+  * SQLite
+* Mobile Development
+  * Android
+  * React Native
 
 Publications
 ======
