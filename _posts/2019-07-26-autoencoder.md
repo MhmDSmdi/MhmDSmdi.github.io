@@ -26,14 +26,13 @@ Like other neural network and machine learning model we need to define a cost fu
 
 To answer this question, first we should get to know **Dimension Reduction** which is the process to reducing the dimensions of   random variables under considerations by capturing a set of principal variable. It is an effective technique to reduce the time and storage space.
 
-![alt text](https://raw.gitbusercontent.com/udacity/deep-learning/c6b46a0bfcb8d4afcb806174b3923d3ea89ca455/autoencoder/assets/autoencoder_1.png)
-
+![alt text](https://raw.githubusercontent.com/MhmDSmdi/mhmdsmdi.github.io/master/images/autoencoder_1.png)
 As mentioned befor autoencoder encodes the input to latent space which has useful properties and is the essential part of autoencoder. Because after training, this latent space representation can be connected to a multilayer perceptron (MLP) or any deep networks. The decoder attempts to re-construct the input from latent space representation and that's the point! In this senario autoencoder is forced to convert latent space to the output without paying attention to input. Because of that it should copy the input to the output with a little loss.
 
 ## Getting start with keras
 In the following codes, used keras and python to implement autoencoder using MNIST dataset.
 
-# Vanilla autoencoder
+### Vanilla autoencoder
 At first we should load dataset (train and test). Because the range of data is 0 - 255, normalized between 0 - 1 by deviding 255.
 ``` python
 encoding_dimension = 32
