@@ -25,7 +25,7 @@ At first, I explain the simplest architecture (Vanilla autoencoder) which has ju
 
 For example, the figure above is a simple autoencoder which has one hidden layer to encode 10 dimensions feature space to 4 dimensions latent space.
 
-Like other neural network and machine learning model, we need to define a cost function (loss function) to minimize the model's error to increase the similarity of input and output. This cost function measure how much the input and the output are different (even it might measure the similarity of input and output). Hence with this function, the autoencoder is forced to learn the latent space presentation as good as possible.
+Like other neural networks and machine learning models, we need to define a cost function (loss function) to minimize the model's error to increase the similarity of input and output. This cost function measures how much the input and the output are different (even it might measure the similarity of input and output). Hence with this function, the autoencoder is forced to learn the latent space presentation as good as possible.
 
 ***But what should it copy the input to the output?***
 
