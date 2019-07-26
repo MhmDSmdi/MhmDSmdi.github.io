@@ -71,3 +71,10 @@ autoencoder.fit(x_train, x_train,
                 shuffle=True,
                 validation_data=(x_test, x_test))
 ```
+
+## Summary
+In this post, we went through the basic concepts and know a basic architecture of autoencoders. They are a very useful dimensionality reduction technique. Also they used in information retrieval in order to find entries in a database that resemble a query entry.
+
+## References
+1) [Deep Learning Book : Chapter14, Autoencoders](https://www.deeplearningbook.org/contents/autoencoders.html)
+2) [Udacity - autoencoder](https://github.com/udacity/deep-learning/tree/master/autoencoder)
