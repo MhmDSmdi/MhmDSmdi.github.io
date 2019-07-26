@@ -39,7 +39,7 @@ As mentioned before autoencoder encodes the input to latent space which has usef
 In the following codes, used Keras and python to implement autoencoder using MNIST dataset.
 
 ### Vanilla autoencoder
-At first we should load dataset (train and test). Because the range of data is 0 - 255, normalized between 0 - 1 by deviding 255.
+At first, we should load dataset (train and test). Because the range of data is 0 - 255, normalized between 0 - 1 by dividing 255.
 ``` python
 encoding_dimension = 32
 input_dimension = 28 * 28
@@ -50,7 +50,7 @@ x_train = x_train.reshape((len(x_train), np.prod(x_train.shape[1:])))
 x_test = x_test.reshape((len(x_test), np.prod(x_test.shape[1:])))
 ```
 
-After that, Vanilla autoencoder is constructed by 3 Dense layer (input-code-output).
+After that, Vanilla autoencoder is constructed by 3 Dense layers (input-code-output).
 ``` python
 input_image = Input(shape=(input_dimension,))
 encode = Dense(encoding_dimension, activation='relu')(input_image)
