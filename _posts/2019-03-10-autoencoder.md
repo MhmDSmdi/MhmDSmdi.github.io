@@ -7,6 +7,7 @@ tags:
   - DeepLearning
 ---
 
+Today autoencoders are widely used in dimension reduction and feature selection. But what is autoencoder?
 
 
 ## Introduction
