@@ -1,7 +1,7 @@
 ---
 title: 'Part1 : What is Autoencoder?'
-date: 2019-07-26
-permalink: /posts/2019/07/autoencoder/
+date: 2019-03-10
+permalink: /posts/2019/03/autoencoder/
 tags:
   - Autoencoder
   - DeepLearning
