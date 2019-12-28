@@ -21,7 +21,7 @@ Education
 * **Amirkabir University of Technology** (Tehran Polytechnic), Tehran, Iran
   * B.Sc, Computer Engineering, 2016 - 2020 (expected)
   * Advisor: Prof. Saeedeh Momtazi
-  * GPA: **17.82** / 20
+  * GPA: **17.96** / 20
   
 * **Mofid High School**, Tehran, Iran
   * B.Sc, Computer Engineering, 2016 - 2020 (expected)
@@ -31,11 +31,15 @@ Education
 
 Research and Work Experience
 ======
-* Anomaly Detection via VAE (September 2018 - present)
+* IPM Brain Engineering Center, Research Intern (June 2019 - present)
+  * Research on word representation and language modeling approaches. Also, I am in charge of implementing some NLP tasks.
+  * Under supervision of Prof. Lashgari
+
+* Anomaly Detection via VAE (September 2018 - March 2019)
   * Research on anomaly detection using variational autoencoders
   * Under supervision of Prof. AmirHaeri
   
-* SOP Company, as Mobile Developer (October 2018 - present)
+* SOP Company, as Mobile Developer (October 2018 - October 2019)
   * Responsible for designing and developing a mHealth (mobile health) application
   
 * Papillon Company, as Android Developer Intern (June 2017 - August 2017)
@@ -43,8 +47,8 @@ Research and Work Experience
 Technical Skills
 ======
 * Programming Scripting Language
-  * Java
   * Python
+  * Java
   * C
   * Shell Scripting
 * Machine Learning Tools
@@ -56,8 +60,8 @@ Technical Skills
   * HTML
   * CSS
   * JavaScript
+  * Vue.js
   * Node.js
-  * XML
 * Database Systems
   * MySQL
   * SQLite
