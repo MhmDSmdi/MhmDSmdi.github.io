@@ -33,23 +33,23 @@ Education
 
 Research and Work Experience
 ======
-* Fake News Detection System, Bachelor’s Thesis (April 2020 - present)
+* **Fake News Detection System**, *Bachelor’s Thesis* (April 2020 - present) <br/>
   Implemented a Persian fake news detection system using state-of-the-art architectures such as BERT for sentence embedding and Convolutional neural
 networks for text classification. Also, a Persian fake news crawler was developed for scraping fake news from Persian news agencies websites - Python
 
-* Anomaly Detection in Graph (September 2020 - present)
+* **Anomaly Detection in Graph** (September 2020 - present) <br/>
   Research on anomaly detection on graph data using variational autoencoders
   (VAE). In this study, nodes of the graph were represented by features vectors
   extracted with different graph embedding algorithm, and our proposed model
-  can detect abnormal nodes in the graph - Python
+  can detect abnormal nodes in the graph - Python <br/>
   * Under supervision of Prof. AmirHaeri
   
-* Question Recommendation System (May 2019 - November 2019)
-  * Research Intern at IPM Brain Engineering Center
+* **Question Recommendation System** (May 2019 - November 2019) <br/>
+  * Research Intern at **IPM Brain Engineering Center**
   This was my first project in NLP during my undergraduate studies. The goal
   was to develop a recommendation system using common text similarity metrics
   and static word embedding methods for recommending medical questions in the
-  realm of Ophthalmology - Python
+  realm of Ophthalmology - Python <br/>
   * Under supervision of Prof. Lashgari
   
 * SOP Company, as an Android Developer (October 2018 - October 2019)
