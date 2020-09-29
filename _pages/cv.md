@@ -45,14 +45,14 @@ networks for text classification. Also, a Persian fake news crawler was develope
   * Under supervision of Prof. AmirHaeri
   
 * **Question Recommendation System** (May 2019 - November 2019) <br/>
-  * Research Intern at **IPM Brain Engineering Center**
+  * Research Intern at **IPM Brain Engineering Center** <br/>
   This was my first project in NLP during my undergraduate studies. The goal
   was to develop a recommendation system using common text similarity metrics
   and static word embedding methods for recommending medical questions in the
   realm of Ophthalmology - Python <br/>
   * Under supervision of Prof. Lashgari
   
-* SOP Company, as an Android Developer (October 2018 - October 2019)
+* SOP Company, as an Android Developer (October 2018 - October 2019) <br/>
   * Responsible for designing and developing a mHealth (mobile health) application
     and defining software requirements.
   
@@ -61,41 +61,29 @@ networks for text classification. Also, a Persian fake news crawler was develope
 Notable Projects
 ======
 
-* Information Retrieval
+* Information Retrieval <br/>
   A news search engine with the capability of crawling news, boolean searching,
   and vector space searching was developed. Clustering and classification algorithms were used for enhancing the search results and the speed of the search
   engine - Python
-* Principles of Computational Intelligence
+* Principles of Computational Intelligence <br/>
   Implemented an RBF neural network which trained by ES (Evolutionary Strategy) algorithm instead of backpropagation to update the weights and it used to
   solve regression and classification problems - Python
-* Principles and Applications of Artificial Intelligence
+* Principles and Applications of Artificial Intelligence <br/>
   Implemented an interactive video based on foreground and background subtraction using MOG2 and KNN algorithms - Python
-* Algorithm Design
+* Algorithm Design <br/>
   Detecting community structures using label propagation with weighted coherent
   neighborhood propinquity - Java
 
 Technical Skills
 ======
-* Programming & Scripting Language
+* Programming & Scripting Language <br/>
   Python, Java, C, C#
-  
-* Machine Learning Tools
-  * TensorFlow
-  * Keras
-  * GNU Octave
-  * scikit-learn
-* Web Development
-  * HTML
-  * CSS
-  * JavaScript
-  * Vue.js
-  * Node.js
-* Database Systems
-  * MySQL
-  * SQLite
-* Mobile Development
-  * Android
-  * React Native
+* Machine Learning Tools <br/>
+  TensorFlow, Keras, PyTorch, GNU Octave, scikit-learn
+* Mobile Development <br/>
+  Android, React Native
+* Web Development <br/>
+  HTML, CSS, Vue.js, JavaScript, Django, Flask, MySQL, SQLite, PostgreSQL
 
 Publications
 ======
