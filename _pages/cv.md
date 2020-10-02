@@ -87,8 +87,8 @@ Technical Skills
 
 Publications
 ======
- * **M. Samadi**, M. Mousavian, S. Momtazi, *”Deep Contextualized Text Representation and Learning for Persian Fake News Detection”*, **ACM Transactions on Asian Language Information Processing** (submitted), September 2020.
- * **M. Samadi**, *Question Recommendation System Based on the Pair Similarity* - Technical Report, September 2019.
+ * **M. Samadi**, M. Mousavian, S. Momtazi, *”Deep Contextualized Text Representation and Learning for Persian Fake News Detection”*, **ACM Transactions on Asian Language Information Processing** (submitted) [PDF](), September 2020.
+ * **M. Samadi**, *Question Recommendation System Based on the Pair Similarity* - Technical Report [PDF](https://drive.google.com/file/d/1CZT2KJm1mhqPPNRv_CKdF9WBTAT9ErZY/view?usp=sharing), September 2019.
   
 Talks
 ======
