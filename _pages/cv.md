@@ -73,7 +73,7 @@ Notable Projects
   Implemented linear famous kaggle challenges about regression and classification: <br/>
   * Quora Insincere Questions Classification: Detecting toxic content to improve online conversations. <br/>
   * Titanic: Machine Learning from Disaster: Createing a model that predicts which passengers survived the Titanic shipwreck. <br/>
-  Also, various clustering problems solved by Kmeans and DBSCAN algorithms and using techniques like Elbow to identify best parameters - Python
+  Also, various clustering problems solved by Kmeans and DBSCAN algorithms and using Elbow for determining the optimum parameters - Python
 * **Principles of Computational Intelligence** <br/>
   Implemented an RBF neural network which trained by ES (Evolutionary Strategy) algorithm instead of backpropagation to update the weights and it used to
   solve regression and classification problems - Python
