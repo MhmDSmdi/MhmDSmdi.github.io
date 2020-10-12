@@ -30,6 +30,10 @@ Education
   * High School Diploma in Mathematics and Physics, 2012 - 2016
   * GPA: **19.67** / 20
 
+Publications
+======
+ * **M. Samadi**, M. Mousavian, S. Momtazi, *”Deep Contextualized Text Representation and Learning for Persian Fake News Detection”*, **ACM Transactions on Asian Language Information Processing** (submitted) [PDF](), September 2020.
+ * **M. Samadi**, *Question Recommendation System Based on the Pair Similarity* - Technical Report [PDF](https://drive.google.com/file/d/1CZT2KJm1mhqPPNRv_CKdF9WBTAT9ErZY/view?usp=sharing), September 2019.
 
 Research and Work Experience
 ======
@@ -61,43 +65,53 @@ networks for text classification. Also, a Persian fake news crawler was develope
 Notable Projects
 ======
 
-* Information Retrieval <br/>
+* **Information Retrieval** <br/>
   A news search engine with the capability of crawling news, boolean searching,
   and vector space searching was developed. Clustering and classification algorithms were used for enhancing the search results and the speed of the search
   engine - Python
-* Principles of Computational Intelligence <br/>
+* **Data Mining** <br/>
+  Implemented linear famous kaggle challenges about regression and classification: <br/>
+  * Quora Insincere Questions Classification: Detecting toxic content to improve online conversations.
+  * Titanic: Machine Learning from Disaster: Createing a model that predicts which passengers survived the Titanic shipwreck.
+   Also, various clustering problems solved by Kmeans and DBSCAN algorithms and using techniques like Elbow to identify best parameters - Python
+* **Principles of Computational Intelligence** <br/>
   Implemented an RBF neural network which trained by ES (Evolutionary Strategy) algorithm instead of backpropagation to update the weights and it used to
   solve regression and classification problems - Python
-* Principles and Applications of Artificial Intelligence <br/>
+* **Principles and Applications of Artificial Intelligence** <br/>
   Implemented an interactive video based on foreground and background subtraction using MOG2 and KNN algorithms - Python
-* Algorithm Design <br/>
+* **Algorithm Design** <br/>
   Detecting community structures using label propagation with weighted coherent
   neighborhood propinquity - Java
 
 Technical Skills
 ======
-* Programming & Scripting Language <br/>
+* **Programming & Scripting Language** <br/>
   Python, Java, C, C#
-* Machine Learning Tools <br/>
+* **Machine Learning Tools** <br/>
   TensorFlow, Keras, PyTorch, GNU Octave, scikit-learn
-* Mobile Development <br/>
+* **Mobile Development** <br/>
   Android, React Native
-* Web Development <br/>
+* **Web Development** <br/>
   HTML, CSS, Vue.js, JavaScript, Django, Flask, MySQL, SQLite, PostgreSQL
-
-Publications
-======
- * **M. Samadi**, M. Mousavian, S. Momtazi, *”Deep Contextualized Text Representation and Learning for Persian Fake News Detection”*, **ACM Transactions on Asian Language Information Processing** (submitted) [PDF](), September 2020.
- * **M. Samadi**, *Question Recommendation System Based on the Pair Similarity* - Technical Report [PDF](https://drive.google.com/file/d/1CZT2KJm1mhqPPNRv_CKdF9WBTAT9ErZY/view?usp=sharing), September 2019.
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+ * **Lecturer, Introduction to Recommender Systems, AUT** <br/>
+    Oral presentation of the technical research course about an introduction to Recommender Systems, [slide](https://www.dropbox.com/s/um9uqesx8hb2n11/RecommenderSystem_slide.pdf?dl=0).
+  * **Lecturer, Fundamentals of Android Development, AUT** <br/>
+    This workshop (30 hrs) was held in Amirkabir University of Tech. for beginners to familiar with java programming and fundamentals fo Android.[slides](https://www.dropbox.com/sh/va8ynst3v8knauw/AAC-57r9MxdGJdS6vU-jCJA1a?dl=0), [Java-Course](https://github.com/MhmDSmdi/Basic-Java-Course), [Android-Course](https://github.com/MhmDSmdi/Basic-Android-Course).
+  * **Lecturer - Mobile Operating Systems: Android** <br/>
+    In this lecture I talked about essentail building blocks of Android briefly as following.
+    Android is a mobile operating system developed by Google. it is based on linux kernel and is desined primerly for touch-screen devices such as smartphones, tablets, televisions. [slide](https://www.dropbox.com/s/9jj225ey2uomve6/OS-Lab.ppsx?dl=0)
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  * **Teaching Assistant, Applied Linear Algebra** <br/>
+    Under supervision of Prof. Amir Mazlaghani <br/>
+    Design and grading assignments
+  * **Teaching Assistant, Operating Systems** <br/>
+    Under supervision of Prof. Taheri Javan <br/>
+    Grading assignments
+  * **Teaching Assistant, Computer Architecture** <br/>
+    Under supervision of Prof. Farbeh <br/>
+    Design and grading assignments
