@@ -70,7 +70,7 @@ Notable Projects
   and vector space searching was developed. Clustering and classification algorithms were used for enhancing the search results and the speed of the search
   engine - Python
 * **Data Mining** <br/>
-  Implemented linear famous kaggle challenges about regression and classification: <br/>
+  Implemented famous kaggle challenges about regression and classification: <br/>
   * Quora Insincere Questions Classification: Detecting toxic content to improve online conversations. <br/>
   * Titanic: Machine Learning from Disaster: Createing a model that predicts which passengers survived the Titanic shipwreck. <br/>
   Also, various clustering problems solved by Kmeans and DBSCAN algorithms and using Elbow for determining the optimum parameters - Python
