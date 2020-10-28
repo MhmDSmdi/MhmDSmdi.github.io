@@ -26,7 +26,6 @@ Education
   * GPA: **3.86** / 4
   
 * **Mofid High School**, Tehran, Iran
-  * B.Sc, Computer Engineering, 2016 - 2020 (expected)
   * High School Diploma in Mathematics and Physics, 2012 - 2016
   * GPA: **19.67** / 20
 
