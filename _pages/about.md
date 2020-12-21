@@ -20,5 +20,3 @@ During this project, I worked on detecting anomaly on graph data using deep mode
 
 * **Question Recommendation System** <br/>
 Last summer I spent my summer internship at the [Brain Engineering Research Center](http://braineng.scs.ipm.ac.ir/) of the [Institute for Research in Fundamental Sciences (IPM)](http://www.ipm.ac.ir/about.jsp) as a researcher under the supervision of [Prof. Lashgari](http://www.ipm.ac.ir/personalinfo.jsp?PeopleCode=IP0400047). I worked with a group of developers and researchers who tried to implement a health care system. I had to implement a question recommendation system based on the semantic similarity of user questions.
-
-In addition, I was in SOP Company since June 2017 as an Android developer and responsible for defining software requirements and preparing documentation.
