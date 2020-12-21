@@ -31,9 +31,11 @@ Education
 
 Publications
 ======
+ * **M. Samadi**, S. Momtazi, ”Multi-Channel Convolutional Neural Networks for Detecting COVID-19 Fake News”, **Elsevier, Applied Soft Computing** (preparing) [PDF](), December 2020.
+ * P. Kavehzadeh, **M. Samadi**, M. AmirHaeri, “Unsupervised Anomaly Detection on Node Attributed Networks: A Deep Learning Approach”, ICISS2021 (under-review), [PDF](), December 2020.
  * **M. Samadi**, M. Mousavian, S. Momtazi, ”Deep Contextualized Text Representation and Learning
-for Fake News Detection”, **Elsevier, Information Processing & Management** (submitted) [PDF](), October 2020.
- * **M. Samadi**, M. Mousavian, S. Momtazi, *”Persian fake news detection: a deep neural representation and deep neural learning approach”*, **ACM, Transactions on Asian Language Information Processing** (submitted) [PDF](), September 2020.
+for Fake News Detection”, **Elsevier, Information Processing & Management** (under-review) [PDF](), October 2020.
+ * **M. Samadi**, M. Mousavian, S. Momtazi, *”Persian fake news detection: a deep neural representation and deep neural learning approach”*, **ACM, Transactions on Asian Language Information Processing** (under-review) [PDF](), September 2020.
  * **M. Samadi**, *Question Recommendation System Based on the Pair Similarity* - Technical Report [PDF](https://drive.google.com/file/d/1CZT2KJm1mhqPPNRv_CKdF9WBTAT9ErZY/view?usp=sharing), September 2019.
 
 Research and Work Experience
