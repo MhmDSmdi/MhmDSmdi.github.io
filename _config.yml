@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : RMW_hX3rMa3iNcaoHYES9rJjzRvSDl1ECDMtC_uhxSE
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -99,7 +99,7 @@ author:
   github           : "mhmdsmdi"
   google_plus      :
   keybase          :
-  instagram        : "mhmd_smdi"
+  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "mohammadreza-samadi-99381498"
