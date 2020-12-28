@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 
-I am in my fourth year of studies Computer Engineering (CE) at Amirkabir University of Technology (AUT), highly interested in various fields of Artificial Intelligence, especially in natural language processing (NLP), anomaly detection, deep learning, and machine learning. I did [some projects](https://github.com/mhmdsmdi) in these fields. During my bachelor's study, I focused on various research projects in these areas that I reviewed as follows:
+I am in my fourth year of studies Computer Engineering (CE) at Amirkabir University of Technology (AUT), highly interested in various fields of Artificial Intelligence, especially in natural language processing (NLP), anomaly detection, deep learning, and machine learning. I did [some projects](https://github.com/mhmdsmdi) in these fields. To view or download the latest version of my CV, [click here](https://github.com/MhmDSmdi/mhmdsmdi.github.io/blob/master/files/CV_MohammadrezaSamadi_2021.pdf).
+
+# Notable Research Experiences
 
 * **Fake News Detection** <br/>
 Currently, I am working on my bachelor's thesis about "fake news detection" in Persian under the supervision of [Prof. Momtazi](https://aut.ac.ir/cv/2345/Saeede%20Momtazi).
