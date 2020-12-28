@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am in my fourth year of studies Computer Engineering (CE) at Amirkabir University of Technology (AUT), highly interested in various fields of Artificial Intelligence, especially in natural language processing (NLP), anomaly detection, deep learning, and machine learning. I did [some projects](https://github.com/mhmdsmdi) in these fields. To view or download the latest version of my CV, [click here](https://github.com/MhmDSmdi/mhmdsmdi.github.io/blob/master/files/CV_MohammadrezaSamadi_2021.pdf).
+I am in my fourth year of studies Computer Engineering (CE) at Amirkabir University of Technology (AUT), highly interested in various fields of Artificial Intelligence, especially in natural language processing (NLP), anomaly detection, deep learning, and machine learning. My projects related to these fields can be found in [my GitHub page](https://github.com/mhmdsmdi). To view or download the latest version of my CV, [click here](https://drive.google.com/file/d/1SKuVyW1Fy24KnwrKv6Pc-pTkYWTG7uB3/view?usp=sharing).
 
 # Notable Research Experiences
 
