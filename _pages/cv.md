@@ -12,7 +12,7 @@ redirect_from:
 Research Interests
 ======
 * Natural Language Processing
-* Anomaly Detection
+* Information Retrieval
 * Data Mining
 * Deep Learning
 * Machine Learning
@@ -23,7 +23,7 @@ Education
   * B.Sc, Computer Engineering, 2016 - 2020 (expected)
   * Advisor: Prof. Saeedeh Momtazi
   * Bachelor’s Thesis: ”Implementation of a Persian Fake News Detection System and a Fake News Crawler Tool”.
-  * GPA: **3.86** / 4
+  * GPA: **3.86**/4 ≃ **18.06**/20
   
 * **Mofid High School**, Tehran, Iran
   * High School Diploma in Mathematics and Physics, 2012 - 2016
@@ -31,12 +31,12 @@ Education
 
 Publications
 ======
- * **M. Samadi**, S. Momtazi, ”Multi-Channel Convolutional Neural Networks for Detecting COVID-19 Fake News”, **Elsevier, Applied Soft Computing** (preparing) [PDF](), December 2020.
- * P. Kavehzadeh, **M. Samadi**, M. AmirHaeri, “Unsupervised Anomaly Detection on Node Attributed Networks: A Deep Learning Approach”, **International Conference on Information Science and Systems (ICISS 2021)** (under-review), [PDF](), December 2020.
- * **M. Samadi**, M. Mousavian, S. Momtazi, ”Deep Contextualized Text Representation and Learning
-for Fake News Detection”, **Elsevier, Information Processing & Management** (under-review) [PDF](), October 2020.
- * **M. Samadi**, M. Mousavian, S. Momtazi, *”Persian fake news detection: a deep neural representation and deep neural learning approach”*, **ACM, Transactions on Asian Language Information Processing** (under-review) [PDF](), September 2020.
- * **M. Samadi**, *Question Recommendation System Based on the Pair Similarity* - Technical Report [PDF](https://drive.google.com/file/d/1CZT2KJm1mhqPPNRv_CKdF9WBTAT9ErZY/view?usp=sharing), September 2019.
+ * Kavehzadeh, P. **Samadi, M.** and Amir Haeri, M. “Unsupervised Anomaly Detection on Node Attributed Networks: A Deep Learning Approach.”, International Conference on Information Science and Systems (ICISS 2021) (**accepted**), to be published in ACM’s International Conference Proceedings Series (ICPS).
+ * **Samadi, M.** and Momtazi, S. “Fake News Detection: Deep Semantic Representation with Topic and Entity Enhanced Feature Engineering.”, Information Processing & Management (to be submitted), January 2021.
+ * **Samadi, M.** and Momtazi, S. “Multi-Channel Convolutional Neural Networks for Detecting COVID-19 Fake News.”, Applied Soft Computing (under review), December 2020.
+ * **Samadi, M.** Mousavian, M. and Momtazi, S. “Deep Contextualized Text Representation and Learning for Fake News Detection.”, Information Processing & Management (under review), October 2020.
+ * **Samadi, M.** Mousavian, M. and Momtazi, S. “Persian Fake News Detection: a Deep Neural Representation and Deep Neural Learning Approach.”, ACM Transactions on Asian and Low-Resource Language Information Processing (under review), September 2020.
+ * **Samadi, M.**, “Question Recommendation System Based on the Pair Similarity.”, Technical Report [View](https://drive.google.com/file/d/1CZT2KJm1mhqPPNRv_CKdF9WBTAT9ErZY/view?usp=sharing), September 2019.
 
 Research and Work Experience
 ======
